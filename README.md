@@ -2,7 +2,7 @@
 
 I'm a passionate Software Engineer.
 
-My Linkeding: https://www.linkedin.com/in/savichev/
+My Linkedin: https://www.linkedin.com/in/savichev/
 
 My CV: https://proton.name/petr_savichev_cv.pdf
 
