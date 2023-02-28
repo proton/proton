@@ -2,7 +2,7 @@
 
 I'm a passionate Software Engineer with lead and management experience.
 
-[Linkedin](https://www.linkedin.com/in/savichev/) [Resume](https://proton.name/petr_savichev_cv.pdf)
+[Homepage](https://proton.name) [Linkedin](https://www.linkedin.com/in/savichev/) [Resume](https://proton.name/petr_savichev_cv.pdf)
 
 <!--
 **proton/proton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
