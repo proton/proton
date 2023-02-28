@@ -1,6 +1,6 @@
 ### Hi there, I'm Peter 👋
 
-I'm a passionate Software Engineer.
+I'm a passionate Software Engineer with lead and management experience.
 
 [Linkedin](https://www.linkedin.com/in/savichev/) [Resume](https://proton.name/petr_savichev_cv.pdf)
 
